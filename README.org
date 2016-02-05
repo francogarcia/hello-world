@@ -1,2 +1,3 @@
-# hello-world
+* Hello, World!
+
 Trying GitHub's tutorial for fun.
